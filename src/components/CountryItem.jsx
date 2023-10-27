@@ -1,4 +1,9 @@
+import PropTypes from "prop-types";
 import styles from "./CountryItem.module.css";
+
+CountryItem.propTypes = {
+  country: PropTypes.any,
+};
 
 function CountryItem({ country }) {
   return (
