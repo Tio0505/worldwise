@@ -25,40 +25,40 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "DE",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Figo",
-      "country": "Portugal",
-      "emoji": "PT",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 6541213
-    },
-    {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "ES",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-10-31T05:23:05.813Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "30.012030680358613",
+        "lng": "31.2286376953125"
       },
-      "id": 21545415
+      "id": 98443198
+    },
+    {
+      "cityName": "Astana",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2023-11-01T04:28:23.949Z",
+      "notes": "",
+      "position": {
+        "lat": "51.12076493195686",
+        "lng": "71.43859863281251"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Guangzhou",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2023-11-01T04:29:32.804Z",
+      "notes": "",
+      "position": {
+        "lat": "23.120153621695614",
+        "lng": "113.25805664062501"
+      },
+      "id": 98443201
     }
   ]
 }
